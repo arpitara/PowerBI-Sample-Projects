@@ -19,7 +19,7 @@
 ![image](https://github.com/arpitara/PowerBI-Sample-Projects/assets/46986493/d8141297-9394-468c-af41-27263b711e44)
 
 ## Dashboard Sample 2 -
-![image](https://github.com/arpitara/PowerBI-Sample-Projects/assets/46986493/237669f1-993a-405a-ae6f-cdaf36f2c2a0)
+![image](https://github.com/arpitara/PowerBI-Sample-Projects/assets/46986493/d86b5733-80c9-42bb-87a6-2886bc27ebb1)
 
 ## Identification of Merchant -
 ![image](https://github.com/arpitara/PowerBI-Sample-Projects/assets/46986493/7e99d08b-3991-4122-8bb8-8f9977a99c29)
