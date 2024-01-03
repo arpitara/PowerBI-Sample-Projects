@@ -1,4 +1,4 @@
-# Arpita's PowerBI-Sample-Projects
+# PowerBI Snapshots
 
 # Project 1 - New York Green Taxi Analysis
 
