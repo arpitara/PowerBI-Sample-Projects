@@ -16,10 +16,12 @@
 ## Project 2 - Uber Eats Case Study
 
 ## Dashboard Sample 1 -
-![image](https://github.com/arpitara/PowerBI-Sample-Projects/assets/46986493/d8141297-9394-468c-af41-27263b711e44)
+![image](https://github.com/arpitara/PowerBI-Sample-Projects/assets/46986493/e8180fcc-eacb-49b6-b4d2-7e07e2587b1b)
+
 
 ## Dashboard Sample 2 -
-![image](https://github.com/arpitara/PowerBI-Sample-Projects/assets/46986493/d86b5733-80c9-42bb-87a6-2886bc27ebb1)
+![image](https://github.com/arpitara/PowerBI-Sample-Projects/assets/46986493/42b186c0-c2cd-46f3-ba85-fc6aa97ada46)
+
 
 ## Identification of Merchant -
 ![image](https://github.com/arpitara/PowerBI-Sample-Projects/assets/46986493/7e99d08b-3991-4122-8bb8-8f9977a99c29)
