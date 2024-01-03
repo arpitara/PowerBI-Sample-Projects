@@ -1,6 +1,6 @@
 # PowerBI-Sample-Projects
 
-# Project 1 - New York Green Taxi Analysis
+## Project 1 - New York Green Taxi Analysis
 
 Dashboard -
 ![image](https://github.com/arpitara/PowerBI-Sample-Projects/assets/46986493/33a4142e-8df9-40e9-9ab7-1874e79ffdd0)
