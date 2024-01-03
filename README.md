@@ -1,6 +1,6 @@
 # Arpita's PowerBI-Sample-Projects
 
-## Project 1 - New York Green Taxi Analysis
+# Project 1 - New York Green Taxi Analysis
 
 ## Dashboard -
 ![image](https://github.com/arpitara/PowerBI-Sample-Projects/assets/46986493/33a4142e-8df9-40e9-9ab7-1874e79ffdd0)
@@ -13,7 +13,7 @@
 
 
 
-## Project 2 - Uber Eats Case Study
+# Project 2 - Uber Eats Case Study
 
 ## Dashboard Sample 1 -
 ![image](https://github.com/arpitara/PowerBI-Sample-Projects/assets/46986493/e8180fcc-eacb-49b6-b4d2-7e07e2587b1b)
